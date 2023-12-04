@@ -2,7 +2,7 @@
 
 Take control of an endlessly hungry black hole to collect ammunition for fighting off hoards of enemies!
 
-Collect as much ammo as you can before time is up. Once you've filled your arsenal, it's time to fight for your life! Defend yourself from many different enemies as they try to get you. Grow the hole to collect bigger and better weaponry for more damage and unique abilities. Can you gather every bullet and survive the enemies before time runs out? Play now!
+Collect as much ammo as you can before time is up. Once you've filled your arsenal, it's time to fight for your life! Defend yourself from many different enemies as they try to get you. Grow the hole to collect bigger and better weaponry for more damage and unique abilities. Can you gather every bullet and survive the enemies before time runs out? Play now!! https://apps.apple.com/us/app/holey-shoot/id6450563743
 
 
 # About this Repo
